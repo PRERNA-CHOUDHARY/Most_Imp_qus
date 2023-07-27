@@ -1,75 +1,121 @@
+These are comprehensive lists of coding questions covering various DSA topics commonly asked in interviews.
 
-1. Arrays:
-   - Two Sum: https://leetcode.com/problems/two-sum/
-   - Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-   - Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
 
-2. Strings:
-   - Reverse String: https://leetcode.com/problems/reverse-string/
-   - Valid Anagram: https://leetcode.com/problems/valid-anagram/
-   - Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+**Arrays:**
+1. Two Sum - LeetCode: https://leetcode.com/problems/two-sum/
+2. Best Time to Buy and Sell Stock - LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+3. Contains Duplicate - LeetCode: https://leetcode.com/problems/contains-duplicate/
+4. Rotate Array - LeetCode: https://leetcode.com/problems/rotate-array/
+5. Product of Array Except Self - LeetCode: https://leetcode.com/problems/product-of-array-except-self/
+6. Merge Intervals - LeetCode: https://leetcode.com/problems/merge-intervals/
+7. Find First and Last Position of Element in Sorted Array - LeetCode: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-3. Linked Lists:
-   - Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/
-   - Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
-   - Detect Cycle in a Linked List: https://leetcode.com/problems/linked-list-cycle/
+**Strings:**
+1. Reverse String - LeetCode: https://leetcode.com/problems/reverse-string/
+2. Valid Anagram - LeetCode: https://leetcode.com/problems/valid-anagram/
+3. Longest Substring Without Repeating Characters - LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+4. Group Anagrams - LeetCode: https://leetcode.com/problems/group-anagrams/
+5. Longest Palindromic Substring - LeetCode: https://leetcode.com/problems/longest-palindromic-substring/
+6. String to Integer (atoi) - LeetCode: https://leetcode.com/problems/string-to-integer-atoi/
 
-4. Trees:
-   - Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-   - Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/
-   - Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/
+**Linked Lists:**
+1. Reverse Linked List - LeetCode: https://leetcode.com/problems/reverse-linked-list/
+2. Merge Two Sorted Lists - LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
+3. Remove Nth Node From End of List - LeetCode: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+4. Linked List Cycle - LeetCode: https://leetcode.com/problems/linked-list-cycle/
+5. Copy List with Random Pointer - LeetCode: https://leetcode.com/problems/copy-list-with-random-pointer/
+6. Add Two Numbers - LeetCode: https://leetcode.com/problems/add-two-numbers/
 
-5. Dynamic Programming:
-   - Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
-   - Coin Change: https://leetcode.com/problems/coin-change/
-   - Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
+**Stacks and Queues:**
+1. Valid Parentheses - LeetCode: https://leetcode.com/problems/valid-parentheses/
+2. Min Stack - LeetCode: https://leetcode.com/problems/min-stack/
+3. Implement Queue using Stacks - LeetCode: https://leetcode.com/problems/implement-queue-using-stacks/
+4. Daily Temperatures - LeetCode: https://leetcode.com/problems/daily-temperatures/
+5. Sliding Window Maximum - LeetCode: https://leetcode.com/problems/sliding-window-maximum/
 
-6. Sorting and Searching:
-   - Merge Intervals: https://leetcode.com/problems/merge-intervals/
-   - Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
-   - Kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/
+**Trees:**
+1. Maximum Depth of Binary Tree - LeetCode: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2. Validate Binary Search Tree - LeetCode: https://leetcode.com/problems/validate-binary-search-tree/
+3. Binary Tree Inorder Traversal - LeetCode: https://leetcode.com/problems/binary-tree-inorder-traversal/
+4. Symmetric Tree - LeetCode: https://leetcode.com/problems/symmetric-tree/
+5. Binary Tree Level Order Traversal - LeetCode: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
-7. Hashing and Maps:
-   - Group Anagrams: https://leetcode.com/problems/group-anagrams/
-   - Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/
-   - Subarray Sum Equals K: https://leetcode.com/problems/subarray-sum-equals-k/
+**Dynamic Programming:**
+1. Climbing Stairs - LeetCode: https://leetcode.com/problems/climbing-stairs/
+2. Longest Increasing Subsequence - LeetCode: https://leetcode.com/problems/longest-increasing-subsequence/
+3. Coin Change - LeetCode: https://leetcode.com/problems/coin-change/
+4. Unique Paths - LeetCode: https://leetcode.com/problems/unique-paths/
+5. House Robber - LeetCode: https://leetcode.com/problems/house-robber/
 
-8. Graphs:
-   - Number of Islands: https://leetcode.com/problems/number-of-islands/
-   - Course Schedule: https://leetcode.com/problems/course-schedule/
-   - Network Delay Time: https://leetcode.com/problems/network-delay-time/
+**Sorting and Searching:**
+1. Merge Sort - Merge Intervals (previously listed in Arrays)
+2. Quick Sort - Kth Largest Element in an Array (previously listed in Sorting and Searching)
+3. Binary Search - LeetCode: https://leetcode.com/problems/binary-search/
+4. First Bad Version - LeetCode: https://leetcode.com/problems/first-bad-version/
+5. Search in Rotated Sorted Array - LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
-9. Sliding Window Technique:
-   - Minimum Size Subarray Sum: https://leetcode.com/problems/minimum-size-subarray-sum/
-   - Longest Substring with At Most K Distinct Characters: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-   - Fruit Into Baskets: https://leetcode.com/problems/fruit-into-baskets/
+**Graphs:**
+1. Number of Islands - LeetCode: https://leetcode.com/problems/number-of-islands/
+2. Course Schedule - LeetCode: https://leetcode.com/problems/course-schedule/
+3. Clone Graph - LeetCode: https://leetcode.com/problems/clone-graph/
+4. Shortest Path in Binary Matrix - LeetCode: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+5. Network Delay Time - LeetCode: https://leetcode.com/problems/network-delay-time/
 
-10. Backtracking:
-   - Letter Combinations of a Phone Number: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-   - Generate Parentheses: https://leetcode.com/problems/generate-parentheses/
-   - N-Queens: https://leetcode.com/problems/n-queens/
+**Backtracking:**
+1. Generate Parentheses - LeetCode: https://leetcode.com/problems/generate-parentheses/
+2. Letter Combinations of a Phone Number - LeetCode: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+3. N-Queens - LeetCode: https://leetcode.com/problems/n-queens/
+4. Combination Sum - LeetCode: https://leetcode.com/problems/combination-sum/
+5. Sudoku Solver - LeetCode: https://leetcode.com/problems/sudoku-solver/
+6. Palindrome Partitioning - LeetCode: https://leetcode.com/problems/palindrome-partitioning/
 
-11. Greedy Algorithms:
-   - Jump Game: https://leetcode.com/problems/jump-game/
-   - Task Scheduler: https://leetcode.com/problems/task-scheduler/
-   - Gas Station: https://leetcode.com/problems/gas-station/
+**Greedy Algorithms:**
+1. Jump Game - LeetCode: https://leetcode.com/problems/jump-game/
+2. Assign Cookies - LeetCode: https://leetcode.com/problems/assign-cookies/
+3. Minimum Number of Arrows to Burst Balloons - LeetCode: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+4. Gas Station - LeetCode: https://leetcode.com/problems/gas-station/
+5. Non-overlapping Intervals - LeetCode: https://leetcode.com/problems/non-overlapping-intervals/
 
-12. Bit Manipulation:
-   - Single Number: https://leetcode.com/problems/single-number/
-   - Counting Bits: https://leetcode.com/problems/counting-bits/
-   - Missing Number: https://leetcode.com/problems/missing-number/
+**Bit Manipulation:**
+1. Single Number - LeetCode: https://leetcode.com/problems/single-number/
+2. Bitwise AND of Numbers Range - LeetCode: https://leetcode.com/problems/bitwise-and-of-numbers-range/
+3. Number of 1 Bits - LeetCode: https://leetcode.com/problems/number-of-1-bits/
+4. Maximum XOR of Two Numbers in an Array - Le
 
-13. Two Pointers:
-   - Three Sum: https://leetcode.com/problems/3sum/
-   - Container With Most Water: https://leetcode.com/problems/container-with-most-water/
-   - Sort Colors: https://leetcode.com/problems/sort-colors/
+etCode: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+5. Counting Bits - LeetCode: https://leetcode.com/problems/counting-bits/
 
-14. Trie (Prefix Tree):
-   - Implement Trie (Prefix Tree): https://leetcode.com/problems/implement-trie-prefix-tree/
-   - Word Search II: https://leetcode.com/problems/word-search-ii/
-   - Replace Words: https://leetcode.com/problems/replace-words/
+**Heap (Priority Queue):**
+1. Kth Largest Element in an Array - LeetCode: https://leetcode.com/problems/kth-largest-element-in-an-array/
+2. Merge k Sorted Lists - LeetCode: https://leetcode.com/problems/merge-k-sorted-lists/
+3. Top K Frequent Elements - LeetCode: https://leetcode.com/problems/top-k-frequent-elements/
+4. Find Median from Data Stream - LeetCode: https://leetcode.com/problems/find-median-from-data-stream/
+5. Sliding Window Median - LeetCode: https://leetcode.com/problems/sliding-window-median/
 
-15. Union Find (Disjoint Set Union):
-   - Number of Operations to Make Network Connected: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
-   - Redundant Connection: https://leetcode.com/problems/redundant-connection/
-   - Accounts Merge: https://leetcode.com/problems/accounts-merge/
+**Trie (Prefix Tree):**
+1. Implement Trie (Prefix Tree) - LeetCode: https://leetcode.com/problems/implement-trie-prefix-tree/
+2. Word Search II - LeetCode: https://leetcode.com/problems/word-search-ii/
+3. Replace Words - LeetCode: https://leetcode.com/problems/replace-words/
+4. Design Add and Search Words Data Structure - LeetCode: https://leetcode.com/problems/design-add-and-search-words-data-structure/
+5. Palindrome Pairs - LeetCode: https://leetcode.com/problems/palindrome-pairs/
+
+**Sliding Window:**
+1. Minimum Window Substring - LeetCode: https://leetcode.com/problems/minimum-window-substring/
+2. Longest Substring with At Most K Distinct Characters - LeetCode: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+3. Longest Repeating Character Replacement - LeetCode: https://leetcode.com/problems/longest-repeating-character-replacement/
+4. Max Consecutive Ones III - LeetCode: https://leetcode.com/problems/max-consecutive-ones-iii/
+5. Find All Anagrams in a String - LeetCode: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+**Divide and Conquer:**
+1. Pow(x, n) - LeetCode: https://leetcode.com/problems/powx-n/
+2. Majority Element - LeetCode: https://leetcode.com/problems/majority-element/
+3. Count of Smaller Numbers After Self - LeetCode: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+4. The Skyline Problem - LeetCode: https://leetcode.com/problems/the-skyline-problem/
+5. Different Ways to Add Parentheses - LeetCode: https://leetcode.com/problems/different-ways-to-add-parentheses/
+
+**Dynamic Programming II:**
+1. Longest Increasing Subsequence - LeetCode: https://leetcode.com/problems/longest-increasing-subsequence/
+2. Maximum Product Subarray - LeetCode: https://leetcode.com/problems/maximum-product-subarray/
+3. Unique Binary Search Trees - LeetCode: https://leetcode.com/problems/unique-binary-search-trees/
+4. Paint House - LeetCode: https://leetcode.com/problems/paint-house/
+5. Burst Balloons - LeetCode: https://leetcode.com/problems/burst-balloons/
