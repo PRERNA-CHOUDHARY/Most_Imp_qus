@@ -119,3 +119,21 @@ etCode: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 3. Unique Binary Search Trees - LeetCode: https://leetcode.com/problems/unique-binary-search-trees/
 4. Paint House - LeetCode: https://leetcode.com/problems/paint-house/
 5. Burst Balloons - LeetCode: https://leetcode.com/problems/burst-balloons/
+
+**Binary Search**
+Sure! Here are some important binary search questions along with their LeetCode links:
+
+1. Search in Rotated Sorted Array - LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array/
+2. Find Minimum in Rotated Sorted Array - LeetCode: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3. Search a 2D Matrix - LeetCode: https://leetcode.com/problems/search-a-2d-matrix/
+4. Search in Rotated Sorted Array II - LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+5. Peak Index in a Mountain Array - LeetCode: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+**Recursion**
+Certainly! Here are some important recursion-related questions along with their LeetCode links:
+
+1. Climbing Stairs - LeetCode: https://leetcode.com/problems/climbing-stairs/
+2. Generate Parentheses - LeetCode: https://leetcode.com/problems/generate-parentheses/
+3. Reverse Linked List - LeetCode: https://leetcode.com/problems/reverse-linked-list/
+4. Maximum Depth of Binary Tree - LeetCode: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+5. Pow(x, n) - LeetCode: https://leetcode.com/problems/powx-n/
